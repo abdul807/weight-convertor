@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
-
+# this function takes in a number of argurments and calcutes the weight of a given feet
 
 def calculate(*args):
     try:
